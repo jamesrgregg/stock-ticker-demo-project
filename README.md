@@ -1,1 +1,1 @@
-# stock-ticker-demo-project
+# bolt-generated-python-stock-ticker-project
